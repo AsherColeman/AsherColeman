@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsherColeman
-- I’m interested in blockchain, web, Linux and Python, in no particular order
-- I’m currently learning Solidity
+- I’m a business major but I'm here to get my tech chops up to speed
+- I’m currently learning Python
 - How to reach me: israelcoleman94@gmail.com
 
 <!---
